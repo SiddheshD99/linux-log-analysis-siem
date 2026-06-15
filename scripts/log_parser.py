@@ -12,7 +12,7 @@ PATTERNS = {
     "failed_login": r"(\w+\s+\d+\s+\d+:\d+:\d+).*Failed password for (\S+) from (\S+) port (\d+)",
     "successful_login": r"(\w+\s+\d+\s+\d+:\d+:\d+).*Accepted password for (\S+) from (\S+) port (\d+)",
     "invalid_user": r"(\w+\s+\d+\s+\d+:\d+:\d+).*Invalid user (\S+) from (\S+) port (\d+)",
-    "sudo_usage": r"(\w+\s+\d+\s+\d+:\d+:\d+).*sudo.*(\S+)\s+:.*COMMAND=(.*)",
+    "sudo_usage": r"(\w+\s+\d+\s+\d+:\d+:\d+).*sudo:\s+(\w+)\s+:.*COMMAND=(.*)",
     "session_opened": r"(\w+\s+\d+\s+\d+:\d+:\d+).*session opened for user (\S+)",
     "session_closed": r"(\w+\s+\d+\s+\d+:\d+:\d+).*session closed for user (\S+)",
 }

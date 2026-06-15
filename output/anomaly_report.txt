@@ -275,109 +275,109 @@ HIGH ANOMALIES
   User 'test' targeted 14 times — possible credential stuffing
 
 [SUSPICIOUS_SUDO]
-  User 'h' ran sudo shell at Jun 01 00:04:57 — possible privilege escalation
+  User 'siddhesh' ran sudo shell at Jun 01 00:04:57 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'r' ran sudo shell at Jun 01 00:30:31 — possible privilege escalation
+  User 'scanner' ran sudo shell at Jun 01 00:30:31 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'h' ran sudo shell at Jun 01 00:37:50 — possible privilege escalation
+  User 'siddhesh' ran sudo shell at Jun 01 00:37:50 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 03:02:54 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 03:02:54 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 04:14:47 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 04:14:47 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'h' ran sudo shell at Jun 01 05:16:57 — possible privilege escalation
+  User 'siddhesh' ran sudo shell at Jun 01 05:16:57 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'r' ran sudo shell at Jun 01 07:25:42 — possible privilege escalation
+  User 'hacker' ran sudo shell at Jun 01 07:25:42 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'r' ran sudo shell at Jun 01 07:38:21 — possible privilege escalation
+  User 'scanner' ran sudo shell at Jun 01 07:38:21 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 07:44:38 — possible privilege escalation
+  User 'test' ran sudo shell at Jun 01 07:44:38 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 08:23:02 — possible privilege escalation
+  User 'test' ran sudo shell at Jun 01 08:23:02 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'h' ran sudo shell at Jun 01 08:39:17 — possible privilege escalation
+  User 'siddhesh' ran sudo shell at Jun 01 08:39:17 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 's' ran sudo shell at Jun 01 08:39:21 — possible privilege escalation
+  User 'anonymous' ran sudo shell at Jun 01 08:39:21 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 09:31:31 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 09:31:31 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'r' ran sudo shell at Jun 01 09:45:20 — possible privilege escalation
+  User 'ftpuser' ran sudo shell at Jun 01 09:45:20 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 10:19:10 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 10:19:10 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 10:41:53 — possible privilege escalation
+  User 'root' ran sudo shell at Jun 01 10:41:53 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'n' ran sudo shell at Jun 01 11:38:24 — possible privilege escalation
+  User 'admin' ran sudo shell at Jun 01 11:38:24 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 11:41:22 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 11:41:22 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'n' ran sudo shell at Jun 01 12:34:08 — possible privilege escalation
+  User 'admin' ran sudo shell at Jun 01 12:34:08 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 's' ran sudo shell at Jun 01 13:36:06 — possible privilege escalation
+  User 'anonymous' ran sudo shell at Jun 01 13:36:06 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 13:43:22 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 13:43:22 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 13:59:13 — possible privilege escalation
+  User 'root' ran sudo shell at Jun 01 13:59:13 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 14:43:16 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 14:43:16 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 's' ran sudo shell at Jun 01 14:57:29 — possible privilege escalation
+  User 'anonymous' ran sudo shell at Jun 01 14:57:29 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'n' ran sudo shell at Jun 01 15:01:46 — possible privilege escalation
+  User 'admin' ran sudo shell at Jun 01 15:01:46 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 15:05:31 — possible privilege escalation
+  User 'test' ran sudo shell at Jun 01 15:05:31 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 15:32:49 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 15:32:49 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 16:49:09 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 16:49:09 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 's' ran sudo shell at Jun 01 20:21:45 — possible privilege escalation
+  User 'anonymous' ran sudo shell at Jun 01 20:21:45 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 20:54:49 — possible privilege escalation
+  User 'test' ran sudo shell at Jun 01 20:54:49 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'u' ran sudo shell at Jun 01 21:26:09 — possible privilege escalation
+  User 'ubuntu' ran sudo shell at Jun 01 21:26:09 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 'r' ran sudo shell at Jun 01 22:17:15 — possible privilege escalation
+  User 'scanner' ran sudo shell at Jun 01 22:17:15 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 23:11:50 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 23:11:50 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 's' ran sudo shell at Jun 01 23:42:14 — possible privilege escalation
+  User 'anonymous' ran sudo shell at Jun 01 23:42:14 — possible privilege escalation
 
 [SUSPICIOUS_SUDO]
-  User 't' ran sudo shell at Jun 01 23:42:22 — possible privilege escalation
+  User 'guest' ran sudo shell at Jun 01 23:42:22 — possible privilege escalation
 
 ============================================================
 MEDIUM ANOMALIES
