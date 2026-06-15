@@ -1,0 +1,485 @@
+============================================================
+ANOMALY DETECTION REPORT
+============================================================
+Total anomalies detected: 156
+
+CRITICAL : 72
+HIGH     : 50
+MEDIUM   : 34
+
+============================================================
+CRITICAL ANOMALIES
+============================================================
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 172.16.0.55 at Jun 01 00:05:02
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 45.33.32.156 at Jun 01 00:06:34
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 192.168.1.105 at Jun 01 01:20:21
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 198.51.100.77 at Jun 01 01:23:38
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 198.51.100.77 at Jun 01 01:24:34
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 172.16.0.55 at Jun 01 01:41:45
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 45.33.32.156 at Jun 01 01:53:38
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 172.16.0.55 at Jun 01 01:56:27
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 198.51.100.77 at Jun 01 01:59:01
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 198.51.100.77 at Jun 01 02:50:06
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 192.168.1.105 at Jun 01 03:09:26
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 10.0.0.23 at Jun 01 03:13:06
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 10.0.0.23 at Jun 01 03:57:17
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 10.0.0.23 at Jun 01 04:27:31
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 45.33.32.156 at Jun 01 05:00:11
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 10.0.0.23 at Jun 01 05:27:27
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 45.33.32.156 at Jun 01 06:04:42
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 45.33.32.156 at Jun 01 06:08:40
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 172.16.0.55 at Jun 01 06:12:47
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 198.51.100.77 at Jun 01 06:24:52
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 10.0.0.23 at Jun 01 06:25:28
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 10.0.0.23 at Jun 01 06:25:36
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 10.0.0.23 at Jun 01 06:33:45
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 172.16.0.55 at Jun 01 07:04:21
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 192.168.1.105 at Jun 01 07:07:47
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 192.168.1.105 at Jun 01 07:16:18
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 10.0.0.23 at Jun 01 08:05:02
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 45.33.32.156 at Jun 01 09:21:16
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 45.33.32.156 at Jun 01 09:28:21
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 45.33.32.156 at Jun 01 09:38:05
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 45.33.32.156 at Jun 01 11:32:24
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 192.168.1.105 at Jun 01 11:33:19
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 172.16.0.55 at Jun 01 11:43:48
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 172.16.0.55 at Jun 01 12:11:12
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 45.33.32.156 at Jun 01 12:34:57
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 10.0.0.23 at Jun 01 13:00:29
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 172.16.0.55 at Jun 01 13:15:02
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 10.0.0.23 at Jun 01 13:19:48
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 10.0.0.23 at Jun 01 13:32:51
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 45.33.32.156 at Jun 01 13:50:00
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 192.168.1.105 at Jun 01 13:53:18
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 45.33.32.156 at Jun 01 14:14:31
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 172.16.0.55 at Jun 01 14:37:04
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 10.0.0.23 at Jun 01 14:55:08
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 10.0.0.23 at Jun 01 15:07:53
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 192.168.1.105 at Jun 01 15:34:43
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 45.33.32.156 at Jun 01 15:42:26
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 172.16.0.55 at Jun 01 15:57:15
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 10.0.0.23 at Jun 01 15:57:45
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 172.16.0.55 at Jun 01 16:03:28
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 10.0.0.23 at Jun 01 16:36:09
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 172.16.0.55 at Jun 01 16:52:49
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 45.33.32.156 at Jun 01 16:55:28
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 192.168.1.105 at Jun 01 16:59:17
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 45.33.32.156 at Jun 01 17:18:29
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 172.16.0.55 at Jun 01 17:39:44
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'hacker' from 45.33.32.156 at Jun 01 17:44:23
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 192.168.1.105 at Jun 01 18:42:21
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 192.168.1.105 at Jun 01 18:53:40
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'admin' from 172.16.0.55 at Jun 01 18:58:58
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 198.51.100.77 at Jun 01 19:07:50
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 192.168.1.105 at Jun 01 19:26:42
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 198.51.100.77 at Jun 01 19:35:53
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 198.51.100.77 at Jun 01 20:59:31
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 198.51.100.77 at Jun 01 21:14:18
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'root' from 192.168.1.105 at Jun 01 21:19:44
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 10.0.0.23 at Jun 01 21:20:12
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 45.33.32.156 at Jun 01 21:24:02
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 45.33.32.156 at Jun 01 22:09:41
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'ftpuser' from 45.33.32.156 at Jun 01 22:39:18
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'anonymous' from 192.168.1.105 at Jun 01 23:32:23
+
+[SUSPICIOUS_USER_LOGIN]
+  Successful login by suspicious user 'scanner' from 10.0.0.23 at Jun 01 23:59:16
+
+============================================================
+HIGH ANOMALIES
+============================================================
+[BRUTE_FORCE_BY_IP]
+  IP 10.0.0.23 made 47 failed/invalid attempts — possible brute force attack
+
+[BRUTE_FORCE_BY_IP]
+  IP 192.168.1.105 made 57 failed/invalid attempts — possible brute force attack
+
+[BRUTE_FORCE_BY_IP]
+  IP 45.33.32.156 made 48 failed/invalid attempts — possible brute force attack
+
+[BRUTE_FORCE_BY_IP]
+  IP 198.51.100.77 made 47 failed/invalid attempts — possible brute force attack
+
+[BRUTE_FORCE_BY_IP]
+  IP 172.16.0.55 made 59 failed/invalid attempts — possible brute force attack
+
+[USER_TARGETED_ATTACK]
+  User 'ubuntu' targeted 21 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'scanner' targeted 22 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'siddhesh' targeted 18 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'hacker' targeted 25 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'admin' targeted 14 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'anonymous' targeted 25 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'guest' targeted 19 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'root' targeted 16 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'ftpuser' targeted 26 times — possible credential stuffing
+
+[USER_TARGETED_ATTACK]
+  User 'test' targeted 14 times — possible credential stuffing
+
+[SUSPICIOUS_SUDO]
+  User 'h' ran sudo shell at Jun 01 00:04:57 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'r' ran sudo shell at Jun 01 00:30:31 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'h' ran sudo shell at Jun 01 00:37:50 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 03:02:54 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 04:14:47 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'h' ran sudo shell at Jun 01 05:16:57 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'r' ran sudo shell at Jun 01 07:25:42 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'r' ran sudo shell at Jun 01 07:38:21 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 07:44:38 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 08:23:02 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'h' ran sudo shell at Jun 01 08:39:17 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 's' ran sudo shell at Jun 01 08:39:21 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 09:31:31 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'r' ran sudo shell at Jun 01 09:45:20 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 10:19:10 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 10:41:53 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'n' ran sudo shell at Jun 01 11:38:24 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 11:41:22 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'n' ran sudo shell at Jun 01 12:34:08 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 's' ran sudo shell at Jun 01 13:36:06 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 13:43:22 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 13:59:13 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 14:43:16 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 's' ran sudo shell at Jun 01 14:57:29 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'n' ran sudo shell at Jun 01 15:01:46 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 15:05:31 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 15:32:49 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 16:49:09 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 's' ran sudo shell at Jun 01 20:21:45 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 20:54:49 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'u' ran sudo shell at Jun 01 21:26:09 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 'r' ran sudo shell at Jun 01 22:17:15 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 23:11:50 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 's' ran sudo shell at Jun 01 23:42:14 — possible privilege escalation
+
+[SUSPICIOUS_SUDO]
+  User 't' ran sudo shell at Jun 01 23:42:22 — possible privilege escalation
+
+============================================================
+MEDIUM ANOMALIES
+============================================================
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 172.16.0.55 at Jun 01 00:21:40
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 45.33.32.156 at Jun 01 00:59:50
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 172.16.0.55 at Jun 01 01:07:12
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 45.33.32.156 at Jun 01 01:45:21
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 192.168.1.105 at Jun 01 01:45:27
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 172.16.0.55 at Jun 01 02:12:44
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 198.51.100.77 at Jun 01 03:02:37
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'ftpuser' from 198.51.100.77 at Jun 01 03:19:26
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 192.168.1.105 at Jun 01 03:26:36
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 172.16.0.55 at Jun 01 03:56:58
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 192.168.1.105 at Jun 01 04:09:26
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'root' from 10.0.0.23 at Jun 01 05:03:32
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'scanner' from 45.33.32.156 at Jun 01 07:11:30
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'root' from 192.168.1.105 at Jun 01 08:29:02
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'scanner' from 172.16.0.55 at Jun 01 08:32:25
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 45.33.32.156 at Jun 01 10:08:45
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'ftpuser' from 172.16.0.55 at Jun 01 11:15:42
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 198.51.100.77 at Jun 01 11:31:56
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'ftpuser' from 192.168.1.105 at Jun 01 11:32:33
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 172.16.0.55 at Jun 01 12:13:07
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'ftpuser' from 192.168.1.105 at Jun 01 12:19:15
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 192.168.1.105 at Jun 01 12:45:09
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 10.0.0.23 at Jun 01 14:26:52
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 172.16.0.55 at Jun 01 14:34:31
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 10.0.0.23 at Jun 01 15:55:05
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'admin' from 10.0.0.23 at Jun 01 15:58:04
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 45.33.32.156 at Jun 01 16:21:57
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'root' from 192.168.1.105 at Jun 01 19:25:55
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'ftpuser' from 192.168.1.105 at Jun 01 19:59:53
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 198.51.100.77 at Jun 01 21:35:32
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'scanner' from 45.33.32.156 at Jun 01 21:52:04
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'scanner' from 198.51.100.77 at Jun 01 22:49:36
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'anonymous' from 10.0.0.23 at Jun 01 22:57:39
+
+[INVALID_SUSPICIOUS_USER]
+  Login attempt by known suspicious username 'hacker' from 45.33.32.156 at Jun 01 23:55:19
