@@ -26,16 +26,32 @@ presenting findings in a format suitable for security operations teams.
 ## Project Structure
 
 ## What I Built
-*To be updated as the project progresses*
+A complete log analysis pipeline consisting of three Python scripts:
+- A log generator that creates realistic Linux SSH authentication logs
+- A log parser that extracts and categorises security events using regex
+- An anomaly detector that flags brute force attacks, credential stuffing, 
+  suspicious logins, and privilege escalation attempts
+- A visualisation script that generates security charts from the parsed data
 
 ## Key Findings
-*To be updated upon completion*
+Analysis of 500 simulated log entries revealed 156 anomalies — 72 critical, 
+50 high, and 34 medium severity. Key findings include 5 IPs conducting brute 
+force attacks, 72 successful logins by suspicious default usernames, and 
+35 instances of sudo shell spawning indicating privilege escalation. 
+Full findings documented in /docs/findings.md
 
 ## How to Run
-*To be updated with setup instructions*
+```bash
+python3 scripts/log_generator.py
+python3 scripts/log_parser.py
+python3 scripts/anomaly_detector.py
+python3 scripts/visualise.py
+```
 
-## SIEM Dashboard
-*Screenshots to be added upon completion*
+## SIEM Integration
+This project includes a complete guide for ingesting parsed logs into 
+Splunk or Microsoft Sentinel for dashboard visualisation and automated 
+alerting. See /docs/siem-setup.md for full setup instructions and KQL queries.
 
 ## Mapped Frameworks
 - NIST CSF 2.0 — Detect (DE.CM) Security Continuous Monitoring
